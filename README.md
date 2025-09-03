@@ -12,4 +12,4 @@ Instruções para a realização atividade:
 3) Ao clicar nos itens da lista, adicione um efeito que aplique uma linha em cima do texto (text-decoration: line-through).
 4) Utilize o jQuery para manipular os elementos e controlar os eventos.
 
-Deploy: https://eduarda-magnago.github.io/lista-de-tarefas/
+Deploy: https://ebac-frontend.github.io/07-lista-de-tarefas/
